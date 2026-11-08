@@ -590,5 +590,5 @@ Open Voice تلاش می‌کند تجربه‌ای سبک و خودمیزبان
 
 از اینکه Open Voice را بررسی می‌کنید و در توسعهٔ نرم‌افزار متن‌باز مشارکت دارید، سپاسگزاریم.
 
-**مخزن رسمی:** [sepehragent1/Open-Voice](https://github.com/sepehragent1/Open-Voice)
+**مخزن رسمی:** [sepehragent1/Open-Voice](https://github.com/sepehragent1/Open-Voice-Flutter)
 
