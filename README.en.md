@@ -599,5 +599,5 @@ For a successful setup, prioritize these three requirements:
 
 Thank you for checking out Open Voice and taking an interest in the project.
 
-**Official repository:** [sepehragent1/Open-Voice](https://github.com/sepehragent1/Open-Voice)
+**Official repository:** [sepehragent1/Open-Voice](https://github.com/sepehragent1/Open-Voice-Flutter)
 
